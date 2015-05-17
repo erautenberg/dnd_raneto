@@ -1,9 +1,7 @@
 /*
 Title: Gnomes
-Sort: 2
+Sort: 3
 */
-
-#Gnome
 
 >Skinny and flaxen-haired, his skin walnut brown and his eyes a startling turquoise, Burgell stood half as tall as Aeron climb up on a stool to look out the peephole. Like most habitations in Oeble, that particular tenement had been built for humans, and smaller residents coped with the resulting awkwardness as best they could.
 >

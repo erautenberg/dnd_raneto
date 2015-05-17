@@ -3,8 +3,6 @@ Title: Half-Elves
 Sort: 3
 */
 
-#Half-Elf
-
 >Flint squinted in to the setting sun. He thought he saw the figure of a man striding up the path. Standing, Flint drew back into the shadow of a tall pine to see better. The man's walk was marked by an easy grace—an elvish grace, Flint would have said; yet the man’s body had the thickness and tight muscles of a human, while the facial hair was definitely humankind’s. All the dwarf could see of the man’s face beneath a green hood was tan skin and a brownish-red beard. A longbow was slung over one shoulder and a sword hung at his left side. He was dressed in soft leather, carefully tooled in the intricate designs the elves loved. But no elf in the world of Krynn could grow a beard
 >
 >... no elf, but...

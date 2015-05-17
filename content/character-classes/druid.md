@@ -1,7 +1,6 @@
-[Return to the Table of Contents](../toc.html)
-
-Druid
-=====
+/*
+Sort: 2
+*/
 
 Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orc s who threaten her forest.
 

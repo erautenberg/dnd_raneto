@@ -3,8 +3,6 @@ Title: Half-Orcs
 Sort: 3
 */
 
-# Half-Orc
-
 >The warchief Mhurren roused himself from his sleeping-furs and his women and pulled a short hauberk of heavy steel rings over his thick, well-muscled torso. He usually rose before most of his warriors, since he had a strong streak of human blood in him, and he found the daylight less bothersome than most of his tribe did. Among the Bloody Skulls, a warrior was judged by his strength, his fierceness, and his wits. Human ancestry was no blemish against a warrior—provided he was every bit as strong, enduring, and bloodthirsty as his full-blooded kin. Half-orcs who were weaker than their orc comrades didn't last long among the Bloody Skulls or any other orc tribe for that matter. But it was often true that a bit of human blood gave a warrior just the right mix of cunning, ambition, and self-discipline to go far indeed, as Mhurren had. He was master of a tribe that could muster two thousand spears, and the strongest chief in Thar.
 
 —Richard Baker, Swordmage

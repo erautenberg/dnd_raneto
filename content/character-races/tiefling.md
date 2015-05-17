@@ -3,8 +3,6 @@ Title: Tieflings
 Sort: 3
 */
 
-# Tiefling
-
 >“But you do see the way people look at you, devil’s child."
 >
 >Those black eyes, cold as a winter storm, were staring right into her heart and the sudden seriousness in his voice jolted her.

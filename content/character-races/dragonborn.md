@@ -3,8 +3,6 @@ Title: Dragonborn
 Sort: 3
 */
 
-#Dragonborn
-
 > Her father stood on the first of the three stairs that led down from the portal, unmoving. The scales of his face had grown paler around the edges, but Clanless Mehen still looked as if he could wrestle down a dire bear himself. His familiar well-worn armor was gone, replaced by violet-tinted scale armor with bright silvery tracings. There was a blazon on his arm as well, the mark of some foreign house. The sword at his back was the same, though, the one he had carried since even before he had found the twins left in swaddling at the gates of Arush Vayem.
 >
 > For all her life. Farideh had known that reading father’s face was a skill she'd been fortunate to learn. A human who couldn’t spot the shift of her eyes or Havilar’s would certainly see only the indifference of a dragon in Clanless Mehen’s face. But the shift of scales, the arch of a ridge, the set of his eyes, the gape of his teeth—her father's face spoke volumes.

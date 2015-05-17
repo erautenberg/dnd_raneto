@@ -1,7 +1,6 @@
-[Return to the Table of Contents](../toc.html)
-
-Bard
-====
+/*
+Sort: 2
+*/
 
 Humming as she traces her fingers over an ancient monument in a long-forgotten ruin, a half-elf in rugged leathers finds knowledge springing into her mind, conjured forth by the magic of her song—knowledge of the people who constructed the monument and the mythic saga it depicts.
 

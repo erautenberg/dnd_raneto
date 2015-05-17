@@ -3,8 +3,6 @@ Title: Dwarves
 Sort: 2
 */
 
-Dwarf
-=====
 
 > “Yer late, elf!” came the rough edge of a familiar voice. Bruenor Battlehammer walked up the back of his dead foe, disregarding the fact that the heavy monster lay on top of his elven friend. In spite of the added discomfort, the dwarf’s long, pointed, often-broken nose and graystreaked though still-fiery red beard came as a welcome sight to Drizzt. “Knew I’d find ye in trouble if I came out an' looked for ye!"
 

@@ -1,10 +1,7 @@
 /*
-Title: Introduction
+Title: Races Introduction
 Sort: 1
 */
-
-Chapter 2: Races
-================
 
 A visit to one of the great cities in the worlds of Dungeons & Dragons—Waterdeep, the Free City of Greyhawk, or even uncanny Sigil, the City of Doors—overwhelms the senses. Voices chatter in countless different languages. The smellsof cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants.
 
@@ -54,23 +51,3 @@ By virtue of your race, your character can speak, read, and write certain langua
 #### Subraces
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. In the Dragonlance campaign setting, for example, mountain dwarves and hill dwarves live together as different clans of the same people, but in the Forgotten Realms, they live far apart in separate kingdoms and call themselves shield dwarves and gold dwarves, respectively.
-
-### Races
-
-##### [Dwarf](chap2-dwarf.html)
-
-##### [Elf](chap2-elf.html)
-
-##### [Halfling](chap2-halfling.html)
-
-##### [Human](chap2-human.html)
-
-##### [Dragonborn](chap2-dragonborn.html)
-
-##### [Gnome](chap2-gnome.html)
-
-##### [Half-Elf](chap2-helf.html)
-
-##### [Half-Orc](chap2-horc.html)
-
-##### [Tiefling](chap2-tiefling.html)

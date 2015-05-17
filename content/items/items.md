@@ -1,8 +1,3 @@
-[Return to the Table of Contents](../toc.html)
-
-Chapter 5 - Equipment
-=====================
-
 The marketplace of a large city teems with buyers and sellers of many sorts: dwarf smiths and elf woodcarvers, halfling farmers and gnome jewelers, not to mention humans of every shape, size, and color drawn from a spectrum of nations and cultures. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to wicker baskets and practical swords.
 
 For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a dungeon or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
@@ -484,46 +479,40 @@ Mounts other than those listed here are available in the worlds of D&D, but they
 
 **Mounts and Other Animals**
 
-|Item|Cost|Speed|Carrying Capacity|
-|-|-|-|-|
-|Camel|50 gp|50 ft.|480 lb.|
-|Donkey or mule|8 gp|40 ft.|420 lb.|
-|Elephant|200 gp|40 ft.|1,320 lb.|
-|Horse, draft|50 gp|40 ft.|540 lb.|
-|Horse, riding|75 gp|60 ft.|480 lb.|
-|Mastiff|25 gp|40 ft.|195 lb.|
-|Pony|30 gp|40 ft.|225 lb.|
-|Warhorse|400 gp|60 ft.|540 lb.|
+| Item           | Cost   | Speed  | Carrying Capacity |
+|:---------------|:-------|:-------|:------------------|
+| Camel          | 50 gp  | 50 ft. | 480 lb.           |
+| Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
+| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
+| Horse, draft   | 50 gp  | 40 ft. | 540 lb.           |
+| Horse, riding  | 75 gp  | 60 ft. | 480 lb.           |
+| Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
+| Pony           | 30 gp  | 40 ft. | 225 lb.           |
+| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
 
 **Tack, Harness, and Drawn Vehicles**
 
-|Item|Cost|Weight  
-|-|-|-  
-|Barding|x4|x2  
-|Bit and bridle|2 gp|1 lb.  
-|Carriage|100 gp|600 lb.  
-|Cart|15 gp|200 lb.  
-|Chariot|250 gp|100 lb.  
-|Feed (per day)|5 cp|10 lb.  
-|Saddle||  
-| - Exotic|60 gp|40 lb.  
-| - Military|20 gp|30 lb.  
-| - Pack|5 gp|15 lb.  
-| - Riding|10 gp|25 lb.  
-|Saddlebags|4 gp|8 lb.  
-|Sled|20 gp|300 lb.  
-|Stabling (per day)|5 sp|—  
-|Wagon|35 gp|400 lb.  
+| Item               | Cost   | Weight  |
+|:-------------------|:-------|:--------|
+| Barding            | x4     | x2      |
+| Bit and bridle     | 2 gp   | 1 lb.   |
+| Carriage           | 100 gp | 600 lb. |
+| Cart               | 15 gp  | 200 lb. |
+| Chariot            | 250 gp | 100 lb. |
+| Feed (per day)     | 5 cp   | 10 lb.  |
+| Saddle             |        |         |
+| - Exotic           | 60 gp  | 40 lb.  |
+| - Military         | 20 gp  | 30 lb.  |
+| - Pack             | 5 gp   | 15 lb.  |
+| - Riding           | 10 gp  | 25 lb.  |
+| Saddlebags         | 4 gp   | 8 lb.   |
+| Sled               | 20 gp  | 300 lb. |
+| Stabling (per day) | 5 sp   | —       |
+| Wagon              | 35 gp  | 400 lb. |
 
 **Waterborne Vehicles**
 
-|Item|Cost|Speed
-|Galley|30,000 gp|4 mph
-|Keelboat|3,000 gp|1 mph
-|Longship|10,000 gp|3 mph
-|Rowboat|50 gp|1 1/2 mph
-|Sailing ship|10,000 gp|2 mph
-|Warship|25,000 gp|2 1/2 mph
+|Item|Cost|Speed |Galley|30,000 gp|4 mph |Keelboat|3,000 gp|1 mph |Longship|10,000 gp|3 mph |Rowboat|50 gp|1 1/2 mph |Sailing ship|10,000 gp|2 mph |Warship|25,000 gp|2 1/2 mph
 
 **Barding.** Barding is armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
 
@@ -533,7 +522,8 @@ Mounts other than those listed here are available in the worlds of D&D, but they
 
 **Rowed Vessels.** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-## Trade Goods
+Trade Goods
+-----------
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 
@@ -541,19 +531,18 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 
 **Trade Goods**
 
-|Cost|Goods
-|-|-
-|1 cp|1 lb. of wheat
-|2 cp|1 lb. of flout or one chicken
-|5 cp|1 lb. of salt
-|1 sp|1 lb. of iron or 1 sq. yd. of canvas
-|5 sp|1 lb. of copper or 1 sq. yd. of cotton cloth
-|1 gp|1 lb. of ginger or one goat
-|2 gp|1 lb. of cinnamon or pepper, or one sheep
-|3 gp|1 lb. of cloves or one pig
-|5 gp|1 lb. of silver or 1 sq. yd. of linen
-|10 gp|1 sq. yd. of silk or one cow
-|15 gp|1 lb. of saffron or one ox
-|50 gp|1 lb. of gold
-|500 gp|1 lb. of platinum
-
+| Cost   | Goods                                        |
+|:-------|:---------------------------------------------|
+| 1 cp   | 1 lb. of wheat                               |
+| 2 cp   | 1 lb. of flout or one chicken                |
+| 5 cp   | 1 lb. of salt                                |
+| 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
+| 5 sp   | 1 lb. of copper or 1 sq. yd. of cotton cloth |
+| 1 gp   | 1 lb. of ginger or one goat                  |
+| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
+| 3 gp   | 1 lb. of cloves or one pig                   |
+| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
+| 10 gp  | 1 sq. yd. of silk or one cow                 |
+| 15 gp  | 1 lb. of saffron or one ox                   |
+| 50 gp  | 1 lb. of gold                                |
+| 500 gp | 1 lb. of platinum                            |

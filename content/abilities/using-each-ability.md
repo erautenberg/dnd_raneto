@@ -6,9 +6,17 @@ Strength measures bodily power, athletic training, and the extent to which you c
 #### Strength Checks
 A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
 
-**Athletics**. Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities: - You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off. - You try to jump an unusually long distance or pull off a stunt midjump. - You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+**Athletics**. Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:  
+- You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off. - You try to jump an unusually long distance or pull off a stunt midjump.  
+- You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
 
-**Other Strength Checks**. The DM might also call for a Strength check when you try to accomplish tasks like the following: - Force open a stuck, locked, or barred door - Break free of bonds - Push through a tunnel that is too small - Hang on to a wagon while being dragged behind it - Tip over a statue - Keep a boulder from rolling
+**Other Strength Checks**. The DM might also call for a Strength check when you try to accomplish tasks like the following:  
+- Force open a stuck, locked, or barred door  
+- Break free of bonds  
+- Push through a tunnel that is too small  
+- Hang on to a wagon while being dragged behind it  
+- Tip over a statue  
+- Keep a boulder from rolling
 
 #### Attack Rolls and Damage
 You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
@@ -52,7 +60,7 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 
 > **Passive Perception**. When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5.
 
-> For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) >of 14.
+> For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
 
 > **What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in chapter 8.
 
@@ -71,7 +79,12 @@ Constitution measures health, stamina, and vital force.
 #### Constitution Checks
 Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
 
-The DM might call for a Constitution check when you try to accomplish tasks like the following: - Hold your breath - March or labor for hours without rest - Go without sleep - Survive without food or water - Quaff an entire stein of ale in one go
+The DM might call for a Constitution check when you try to accomplish tasks like the following:  
+- Hold your breath  
+- March or labor for hours without rest  
+- Go without sleep  
+- Survive without food or water  
+- Quaff an entire stein of ale in one go
 
 #### Hit Points
 Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
@@ -139,7 +152,9 @@ A Charisma check might arise when you try to influence or entertain others, when
 
 **Persuasion**. When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
 
-**Other Charisma Checks**. The DM might call for a Charisma check when you try to accomplish tasks like the following: - Find the best person to talk to for news, rumors, and gossip - Blend into a crowd to get the sense of key topics of conversation
+**Other Charisma Checks**. The DM might call for a Charisma check when you try to accomplish tasks like the following:  
+- Find the best person to talk to for news, rumors, and gossip  
+- Blend into a crowd to get the sense of key topics of conversation
 
 #### Spellcasting Ability
 Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.

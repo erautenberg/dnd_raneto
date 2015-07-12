@@ -1,3 +1,5 @@
+/* Sort: 1 */
+
 ### Cantrips
 
 ### 1st Level Spells

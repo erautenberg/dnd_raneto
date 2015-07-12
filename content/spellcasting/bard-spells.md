@@ -1,3 +1,5 @@
+/* Sort: 1 */
+
 ### Cantrips
 
 [Blade Ward](./0/blade_ward.md)  

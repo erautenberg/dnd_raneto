@@ -1,3 +1,5 @@
+/* Sort: 2 */
+
 This section describes items that have special rules or require further explanation.
 
 **Adventuring Gear**

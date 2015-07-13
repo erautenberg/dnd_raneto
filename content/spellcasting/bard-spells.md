@@ -17,7 +17,9 @@
 ### 1st Level Spells
 
 [Animal Friendship](./1/animal_friendship.md)  
-[Bane](./1/bane.md)
+[Bane](./1/bane.md)  
+[Charm Person](./1/charm_person.md)  
+[Comprehend Languages](./1/comprehend_languages.md)
 
 ### 2nd Level Spells
 

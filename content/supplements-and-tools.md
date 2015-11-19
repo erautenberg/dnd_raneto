@@ -6,6 +6,7 @@ Official Supplements
 -	[Princes of the Apocalypse Online Supplement](http://media.wizards.com/2015/downloads/dnd/PrincesApocalypse_AdvSupplementv1.0_PrinterFriendly.pdf)  
 -	[Tyranny of Dragons: Hoard of the Dragon Queen Supplement](http://media.wizards.com/2014/downloads/dnd/HoardDragonQueen_Supplement1_PF.pdf)  
 -	[Tyranny of Dragons: Rise of Tiamat Supplement](http://media.wizards.com/2014/downloads/dnd/RiseTiamatSupplementv0.2_Printer.pdf)  
+- [PHB](./PHB.pdf)
 
 Unearthed Arcana
 ----------------

@@ -222,7 +222,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 >
 > **Dungeoneer’s Pack (12 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped >to the side of it.
 >
-> **E****ntertainer’s Pack (40 gp)**. Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+> **Entertainer’s Pack (40 gp)**. Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 >
 > **Explorer’s Pack (10 gp)**. Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side >of it.
 >

@@ -3,7 +3,9 @@ Title: Humans
 Sort: 2
 */
 
->These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Uriel read, lighting candle after precious candle. > >She'd never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
+> These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Uriel read, lighting candle after precious candle.
+> 
+> She'd never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
 
 —Elaine Cunningham, Daughter of the Drow
 
@@ -37,7 +39,7 @@ Humans who seek adventure are the most daring and ambitious members of a daring 
 >
 > **Dwarves.** “They’re stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though.”
 >
-> **Elves.** “ It’s best not to wander into elven woods. They don't like intruders, and you’ ll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
+> **Elves.** “It’s best not to wander into elven woods. They don't like intruders, and you’ ll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
 >
 > **Halflings.** "It’s hard to beat a meal in a halfling home, as long as you don’t crack your head on the ceiling—good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something.”
 

@@ -28,8 +28,8 @@ Gnomes make their homes in hilly, wooded lands. They live underground but get mo
 
 Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkers. Some human families retain gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life.
 
->### Deep Gnomes
->A third subrace of gnomes, the deep gnomes (or svirfneblin), live in small communities scattered in the Underdark.  unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.
+> #### Deep Gnomes
+> A third subrace of gnomes, the deep gnomes (or svirfneblin), live in small communities scattered in the Underdark.  unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.
 
 ## Gnome Names
 Gnomes love names, and most have half a dozen or so. A gnome's mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are purely new inventions. When dealing with humans and others w ho are “stuffy” about names, a gnome learns to use no more than three names: a personal name, a clan name, and a nickname, choosing the one in each category that’s the most fun to say.

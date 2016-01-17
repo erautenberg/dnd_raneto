@@ -11,7 +11,7 @@ Sort: 3
 >
 >“Three's a curse,” she finished. “You think I haven’t heard that rubbish before?”
 >
->“I know you have.” When she glared at him, he added, “It’s not as if I ’m plumbing the depths of your mind, dear girl. That is the burden of every tiefling. Some break under it, some make it the millstone around their neck, some revel in it.” He tilted his head again, scrutinizing her, with that wicked glint in his eyes. “You fight it, don’t you? Like a little wildcat, I wager. Every little jab and comment just sharpens your claws.”
+>“I know you have.” When she glared at him, he added, “It’s not as if I’m plumbing the depths of your mind, dear girl. That is the burden of every tiefling. Some break under it, some make it the millstone around their neck, some revel in it.” He tilted his head again, scrutinizing her, with that wicked glint in his eyes. “You fight it, don’t you? Like a little wildcat, I wager. Every little jab and comment just sharpens your claws.”
 
 —Erin M. Evans, Brimstone Angels
 
@@ -25,8 +25,8 @@ Tieflings subsist in small minorities found mostly in human cities or towns, oft
 
 Lacking a homeland, tieflings know that they have to make their own way in the world and that they have to be strong to survive. They are not quick to trust anyone who claims to be a friend, but when a tiefling’s companions demonstrate that they trust him or her, the tiefling learns to extend the same trust to them. And once a tiefling gives someone loyalty, the tiefling is a firm friend or ally for life.
 
->**Mutual Mistrust**  
->People tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. Shopkeepers keep a close eye on their goods when tieflings enter their stores, the town watch might follow a tiefling around for a while, and demagogues blame tieflings for strange happenings. The reality, though, is that a tiefling’s bloodline doesn’t affect his or her personality to any great degree. Years of dealing with mistrust does leave its mark on most tieflings, and they respond to it in different ways. Some choose to live up to the wicked stereotype, but others are virtuous. Most are simply very aware of how people respond to them. After dealing with this mistrust throughout youth, a tiefling often develops the ability to overcome prejudice through charm or intimidation.
+> #### Mutual Mistrust
+> People tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. Shopkeepers keep a close eye on their goods when tieflings enter their stores, the town watch might follow a tiefling around for a while, and demagogues blame tieflings for strange happenings. The reality, though, is that a tiefling’s bloodline doesn’t affect his or her personality to any great degree. Years of dealing with mistrust does leave its mark on most tieflings, and they respond to it in different ways. Some choose to live up to the wicked stereotype, but others are virtuous. Most are simply very aware of how people respond to them. After dealing with this mistrust throughout youth, a tiefling often develops the ability to overcome prejudice through charm or intimidation.
 
 ## Tiefling Names
 Tiefling names fall into three broad categories. Tieflings born into another culture typically have names reflective of that culture. Some have names derived from the Infernal language, passed down through generations, that reflect their fiendish heritage. And some younger tieflings, striving to find a place in the world, adopt a name that signifies a virtue or other concept and then try to embody that concept. For some, the chosen name is a noble quest. For others, it’s a grim destiny.

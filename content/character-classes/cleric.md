@@ -71,11 +71,17 @@ As a cleric, you gain the following class features.
 
 ### Hit Points
 
-**Hit Dice:** 1d8 per cleric level**Hit Points at 1st Level:** 8 + your Constitution modifier**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
+**Hit Dice:** 1d8 per cleric level
+**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
 ### Proficiencies
 
-**Armor:** Light armor, medium armor, shields**Weapons:** All simple weapons**Tools:** None**Saving Throws:** Wisdom, Charisma**Skills:** Choose two from History, Insight, Medicine,Persuasion, and Religion
+**Armor:** Light armor, medium armor, shields
+**Weapons:** All simple weapons
+**Tools:** None
+**Saving Throws:** Wisdom, Charisma
+**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
 ### Equipment
 

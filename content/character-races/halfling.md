@@ -14,7 +14,7 @@ Small and Practical
 
 The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.
 
-Halflings’ skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to w ear simple, comfortable, and practical clothes, favoring bright colors.
+Halflings’ skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.
 
 Halfling practicality extends beyond their clothing. They’re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.
 
@@ -37,7 +37,7 @@ Pastoral Pleasantries
 
 Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don’t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.
 
-Many halflings live among other races, where the halflings’ hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving w agons or guiding boats from place to place and maintaining no permanent home.
+Many halflings live among other races, where the halflings’ hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
 
 Exploring Opportunities
 -----------------------
@@ -50,7 +50,7 @@ Halflings usually set out on the adventurer’s path to defend their communities
 >
 > **Dwarves.** “Dwarves make loyal friends, and you can count on them to keep their word. But would it hurt them to smile once in a while?”
 >
-> **Elves.** "They’re so beautiful! Their faces, their music, their grace and all. It’s like they stepped out of a wonderful ream. But there’s no telling what’s going on behind their smiling faces— surely more than they ever let on.”
+> **Elves.** "They’re so beautiful! Their faces, their music, their grace and all. It’s like they stepped out of a wonderful realm. But there’s no telling what’s going on behind their smiling faces— surely more than they ever let on.”
 >
 > **Humans.** “Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you’ll find good, solid folk. Not that there’s anything wrong with the barons and soldiers—you have to admire their conviction. And by protecting their own lands, they protect us as well.”
 
@@ -76,7 +76,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Alignment.** Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
 
-**Size.** Halflings average about 3 feet tall and w eigh about 40 pounds. Your size is Small.
+**Size.** Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
 
 **Speed.** Your base walking speed is 25 feet.
 
@@ -106,4 +106,4 @@ As a stout halfling, you’re hardier than average and have some resistance to p
 
 **Ability Score Increase.** Your Constitution score increases by 1.
 
-**Stout Resilience.** You have advantage on saving hrows against poison, and you have resistance gainst poison damage.
+**Stout Resilience.** You have advantage on saving hrows against poison, and you have resistance against poison damage.

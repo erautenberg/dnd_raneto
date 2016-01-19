@@ -68,7 +68,7 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 **Alignment.** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those w ho side with Tiamat can be terrible villains.
 
-**Size.** Dragonborn are taller and heavier than humans, standing w ell over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+**Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
 
 **Speed.** Your base walking speed is 30 feet.
 

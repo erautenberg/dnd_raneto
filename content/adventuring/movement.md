@@ -62,9 +62,9 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group's journey.
 
 ### Marching Order
-The adventurers should establish a marching order. A m arching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.
+The adventurers should establish a marching order. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.
 
-A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When spaaace is too tight, the marching order must change, usually by moving characters to a middle rank.
+A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When space is too tight, the marching order must change, usually by moving characters to a middle rank.
 
 **Fewer Than Three Ranks**. If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there's only one rank, it's considered a front rank.
 
@@ -74,14 +74,14 @@ While traveling at a slow pace, the characters can move stealthily. As long as t
 ### Noticing Threats
 Use the passive Wisdom (Perception) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
 
-While traveling at a fast pace, characters take a - 5 penalty to their passive Wisdom (Perception) scores to notice hidden threats.
+While traveling at a fast pace, characters take a -5 penalty to their passive Wisdom (Perception) scores to notice hidden threats.
 
 **Encountering Creatures**. If the DM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
 
 **Surprising Foes**. If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See chapter 9 for more about surprise.
 
 ### Other Activities
-Characters w ho turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission.
+Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission.
 
 **Navigate**. The character can try to prevent the group from becoming lost, making a Wisdom (Survival) check when the DM calls for it. (The Dungeon Master's Guide has rules to determine whether the group gets lost.)
 

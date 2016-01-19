@@ -69,11 +69,17 @@ As a sorcerer, you gain the following class features.
 
 ### Hit Points
 
-**Hit Dice:** 1d6 per sorcerer level**Hit Points at 1st Level:** 6 + your Constitution modifier**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
+**Hit Dice:** 1d6 per sorcerer level
+**Hit Points at 1st Level:** 6 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
 ### Proficiencies
 
-**Armor:** None**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows**Tools:** None**Saving Throws:** Constitution, Charisma**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+**Armor:** None
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+**Tools:** None
+**Saving Throws:** Constitution, Charisma
+**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
 ### Equipment
 

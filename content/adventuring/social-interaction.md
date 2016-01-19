@@ -2,7 +2,7 @@
 Sort: 2  
 */
 
-Exploring dungeons, overcoming obstacles, and slaying monsters are key parts o f D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.
+Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.
 
 Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a dragon so that it will spare your life. The DM assumes the roles of any characters who are participating in the interaction that don’t belong to another player at the table. Any such character is called a **nonplayer character** (NPC).
 
@@ -25,9 +25,9 @@ With this approach, you describe your character’s words and actions to the DM 
 
 For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family’s misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek’s table and tries to strike up a conversation with the dwarf.
 
-Chris says, “Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and lares at the minstrel before ordering another drink.”
+Chris says, “Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink.”
 
-In this example, Chris has conveyed Tordek’s mood and given the DM a clear idea o f his character’s attitude and actions.
+In this example, Chris has conveyed Tordek’s mood and given the DM a clear idea of his character’s attitude and actions.
 
 When using descriptive roleplaying, keep the following things in mind:
 
@@ -49,7 +49,7 @@ Speaking as Tordek, Chris says in a gruff, deep voice, “I was wondering why it
 
 ### Results of Roleplaying
 
-The DM uses your character’s actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats o f violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
+The DM uses your character’s actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
 
 When interacting with an NPC, pay close attention to the DM’s portrayal of the NPC’s mood, dialogue, and personality. You might be able to determine an NPC’s personality traits, ideals, flaws, and bonds, then play on them to influence the NPC’s attitude.
 
@@ -62,4 +62,4 @@ In addition to roleplaying, ability checks are key in determining the outcome of
 
 Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
 
-Pay attention to your skill proficiencies when thinking o f how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in Deception is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with Persuasion should do most of the talking.
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in Deception is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with Persuasion should do most of the talking.

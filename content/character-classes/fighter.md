@@ -12,7 +12,7 @@ All of these heroes are fighters, perhaps the most diverse class of characters i
 Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.
 
 ## Trained for Danger
-Not every m ember of the city watch, the village militia, or the queen's army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
+Not every member of the city watch, the village militia, or the queen's army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
 
 Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards--few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.
 
@@ -53,10 +53,16 @@ Level | Proficiency Bonus | Features
 As a fighter, you gain the following class features.
 
 ### Hit Points
-**Hit Dice:** 1d10 per fighter level<br>**Hit Points at 1st Level:** 10 + your Constitution modifier<br>**Hit Points at Higher Levels:** 1d10 (or 6) + yourConstitution modifier per fighter level after 1st
+**Hit Dice:** 1d10 per fighter level
+**Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
 ### Proficiencies
-**Armor:** All armor, shields<br>**Weapons:** Simple weapons, martial weapons<br>**Tools:** None<br>**Saving Throws:** Strength, Constitution<br>**Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation,Perception, and Survival
+**Armor:** All armor, shields
+**Weapons:** Simple weapons, martial weapons
+**Tools:** None
+**Saving Throws:** Strength, Constitution
+**Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background: - (a) chain mail or (b) leather, longbow, and 20 arrows - (a) a martial weapon and a shield or (b) two martial weapons - (a) a light crossbow and 20 bolts or (b) two handaxes - (a) a dungeoneer's pack or (b) an explorer's pack

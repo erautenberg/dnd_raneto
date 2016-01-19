@@ -40,7 +40,8 @@ Gods, Gold, and Clan
 
 Dwarves who take up the adventuring life might be motivated by a desire for treasure—for its own sake, for a specific purpose, or even out of an altruistic desire to help others. Other dwarves are driven by the command or inspiration of a deity, a direct calling or simply a desire to bring glory to one of the dwarf gods. Clan and ancestry are also important motivators. A dwarf might seek to restore a clan’s lost honor, avenge an ancient wrong the clan suffered, or earn a new place within the clan after having been exiled. Or a dwarf might search for the axe wielded by a mighty ancestor, lost on the field of battle centuries ago.
 
-> Slow to Trust Dwarves get along passably well with most other races. “The difference between an acquaintance and a friend is about a hundred years,” is a dwarf saying that might be hyperbole, but certainly points to how difficult it can be for a member of a short-lived race like humans to earn a dwarf’s trust.
+> #### Slow to Trust
+> Dwarves get along passably well with most other races. “The difference between an acquaintance and a friend is about a hundred years,” is a dwarf saying that might be hyperbole, but certainly points to how difficult it can be for a member of a short-lived race like humans to earn a dwarf’s trust.
 >
 > **Elves.** “It’s not wise to depend on the elves. No telling what an elf will do next; when the hammer meets the orc’s head, they’re as apt to start singing as to pull out a sword. They’re flighty and frivolous. Two things to be said for them, though: They don’t have many smiths, but the ones they have do very fine work. And when orcs or goblins come streaming down out of the mountains, an elf’s good to have at your back. Not as good as a dwarf, maybe, but no doubt they hate the orcs as much as we do.”
 >

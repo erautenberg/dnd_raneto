@@ -19,11 +19,11 @@ These details help establish your family and your title as features of the world
 **Languages**: One of your choice  
 **Equipment**: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
 
-### Feature: Position of Privilege
+#### Feature: Position of Privilege
 
 Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 
-### Suggested Characteristics
+#### Suggested Characteristics
 
 Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family’s care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
@@ -65,7 +65,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 5      | In fact, the world does revolve around me.                                                         |
 | 6      | By my words and actions, I often bring shame to my family.                                         |
 
-### Variant Noble: Knight
+#### Variant Noble: Knight
 
 A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature (see the sidebar) instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).
 

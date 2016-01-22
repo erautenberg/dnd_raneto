@@ -31,7 +31,7 @@ Bards thrive on stories, whether those stories are true or not. Your character�
 
 Did you serve an apprenticeship, studying under a master, following the more experienced bard until you were ready to strike out on your own? Or did you attend a college where you studied bardic lore and practiced your musical magic? Perhaps you were a young runaway or orphan, befriended by a wandering bard who became your mentor. Or you might have been a spoiled noble child tutored by a master. Perhaps you stumbled into the clutches of a hag, making a bargain for a musical gift in addition to your life and freedom, but at what cost?
 
-### Quick Build
+#### Quick Build
 
 You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the entertainer background. Third, choose the *dancing lights* and *vicious mockery* cantrips, along with the following 1st-level spells: *charm person*, *detect magic*, *healing word*, and *thunderwave*.
 
@@ -65,13 +65,13 @@ Class Features
 
 As a bard, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice**: 1d8 per bard level  
 **Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor  
 **Weapons:** Simple weapons, hand crossbows,longswords, rapiers, shortswords  
@@ -79,7 +79,7 @@ As a bard, you gain the following class features.
 **Saving Throws:** Dexterity, Charisma  
 **Skills:** Choose any three
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -192,19 +192,19 @@ The loyalty of these bards lies in the pursuit of beauty and truth, not in fealt
 
 The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 
-### Bonus Proficiencies
+#### Bonus Proficiencies
 
 When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.
 
-### Cutting Words
+#### Cutting Words
 
 Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
 
-### Additional Magical Secrets
+#### Additional Magical Secrets
 
 At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don’t count against the number of bard spells you know.
 
-### Peerless Skill
+#### Peerless Skill
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roil the die for the ability check, but before the DM tells you whether you succeed or fail.
 
@@ -213,18 +213,18 @@ College of Valor
 
 Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn’t pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
 
-### Bonus Proficiencies
+#### Bonus Proficiencies
 
 When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.
 
-### Combat Inspiration
+#### Combat Inspiration
 
 Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.
 
-### Extra Attack
+#### Extra Attack
 
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Battle Magic
+#### Battle Magic
 
 At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.

@@ -4,7 +4,7 @@ Sort: 1
 
 Characters are defined by much more than their race and class. They’re individuals with their own stories, interests, connections, and capabilities beyond those that class and race define. This chapter expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
 
-> #### Tika and Artemis: Contrasting Characters
+> ##### Tika and Artemis: Contrasting Characters
 >
 > The details in this chapter make a big difference in setting your character apart from every other character. Consider the following two human fighters.
 >
@@ -23,7 +23,7 @@ Your character’s name and physical description might be the first things that 
 
 Your character’s race description includes sample names for members of that race. Put some thought into your name even if you’re just picking one from a list.
 
-> #### Tika and Artemis: Character Details
+> ##### Tika and Artemis: Character Details
 >
 > Consider how the names Tika Waylan and Artemis Entreri set these characters apart from each other and reflect their personalities. Tika is a young woman determined to prove that she's not just a kid any more, and her name makes her sound young and ordinary. Artemis Entreri comes from an exotic land and carries a more mysterious name.
 >
@@ -98,7 +98,7 @@ Alignment is an essential part of the nature of celestials and fiends. A devil d
 
 Most creatures that lack the capacity for rational thought do not have alignments — they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
-> #### Tika and Artemis: Alignment
+> ##### Tika and Artemis: Alignment
 >
 > Tika Waylan is neutral good, fundamentally good-hearted and striving to help others where she can. Artemis is lawful evil, unconcerned with the value of sentient life but at least professional in his approach to murder.
 >
@@ -145,7 +145,7 @@ Fleshing out your character’s personality—the array of traits, mannerisms, h
 
 Each background presented later in this chapter includes suggested characteristics that you can use to spark your imagination. You’re not bound to those options, but they’re a good starting point.
 
-> #### Tika and Artemis: Personal Characteristics
+> ##### Tika and Artemis: Personal Characteristics
 >
 > Tika and Artemis have distinct personality traits. Tika Waylan dislikes boastfulness and has a fear of heights resulting from a bad fall during her career as a thief. Artemis Entreri is always prepared for the worst and moves with a quick, precise confidence.
 >
@@ -157,7 +157,7 @@ Each background presented later in this chapter includes suggested characteristi
 >
 > Each of these characters also has an important flaw. Tika Waylan is naive and emotionally vulnerable, younger than her companions and annoyed that they still think of her as the kid they knew years ago. She might even be tempted to act against her principles if she's convinced that a particular achievement would demonstrate her maturity. Artemis Entreri is completely walled off from any personal relationship and just wants to be left alone.
 
-### Personality Traits
+#### Personality Traits
 
 Give your character two personality traits. Personality traits are small, simple ways to help you set your character apart from every other character. Your personality traits should tell you something interesting and fun about your character. They should be self descriptions that are specific about what makes your character stand out. “I’m smart” is not a good trait, because it describes a lot of characters. “I’ve read every book in Candlekeep” tells you something specific about your character’s interests and disposition.
 
@@ -165,7 +165,7 @@ Personality traits might describe the things your character likes, his or her pa
 
 A useful place to start thinking about personality traits is to look at your highest and lowest ability scores and define one trait related to each. Either one could be positive or negative: you might work hard to overcome a low score, for example, or be cocky about your high score.
 
-### Ideals
+#### Ideals
 
 Describe one ideal that drives your character. Your ideals are the things that you believe in most strongly, the fundamental moral and ethical principles that compel you to act as you do. Ideals encompass everything from your life goals to your core belief system.
 
@@ -173,7 +173,7 @@ Ideals might answer any of these questions: What are the principles that you wil
 
 You can choose any ideals you like, but your character’s alignment is a good place to start defining them. Each background in this chapter includes six suggested ideals. Five of them are linked to aspects of alignment: law, chaos, good, evil, and neutrality. The last one has more to do with the particular background than with moral or ethical perspectives.
 
-### Bonds
+#### Bonds
 
 Create one bond for your character. Bonds represent a character’s connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character’s motivations and goals.
 
@@ -181,22 +181,24 @@ Bonds might answer any of these questions: Whom do you care most about? To what 
 
 Your bonds might be tied to your class, your background, your race, or some other aspect of your character’s history or personality. You might also gain new bonds over the course of your adventures.
 
-### Flaws
+#### Flaws
 
 Finally, choose a flaw for your character. Your character’s flaw represents some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What’s the one person, concept, or event that you are terrified of? What are your vices?
 
 Inspiration
------------
+===========
 
 Inspiration is a rule the Dungeon Master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
 
-### Gaining Inspiration
+Gaining Inspiration
+-------------------
 
 Your DM can choose to give you inspiration for a variety of reasons. Typically, DMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your DM will tell you how you can earn inspiration in the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
-### Using Inspiration
+Using Inspiration
+-----------------
 
 If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
 
@@ -213,7 +215,7 @@ Choosing a background provides you with important story cues about your characte
 >
 > Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika’s later career as a barmaid didn’t really change her, so she might choose the urchin background, gaining proficiency in the Sleight of Hand and Stealth skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in Deception and Stealth, as well as proficiency with the tools of thievery and poison.
 
-### Proficiencies
+#### Proficiencies
 
 Each background gives a character proficiency in two skills. Skills are described in chapter 7.
 
@@ -221,18 +223,18 @@ In addition, most backgrounds give a character proficiency with one or more tool
 
 If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
-### Languages
+#### Languages
 
 Some backgrounds also allow characters to learn additional languages beyond those given by race. See “Languages” earlier in this chapter.
 
-### Equipment
+#### Equipment
 
 Each background provides a package of starting equipment. If you use the optional rule from chapter 5 to spend coin on gear, you do not receive the starting equipment from your background.
 
-### Suggested Characteristics
+#### Suggested Characteristics
 
 A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
 
-### Customizing a Background
+#### Customizing a Background
 
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in chapter 5. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your DM to create one.

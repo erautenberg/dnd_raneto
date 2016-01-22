@@ -33,7 +33,7 @@ What’s the source of your particular hatred of a certain kind of enemy? Did a 
 
 What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?
 
-### Quick Build
+###$ Quick Build
 
 You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the outlander background.
 
@@ -67,21 +67,21 @@ Class Features
 
 As a ranger, you gain the following class features.
 
-### Hit Points
+###$ Hit Points
 
-**Hit Dice:** 1d10 per ranger level
-**Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Dice:** 1d10 per ranger level  
+**Hit Points at 1st Level:** 10 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
-### Proficiencies
+###$ Proficiencies
 
-**Armor:** Light armor, medium armor, shields
-**Weapons:** Simple weapons, martial weapons
-**Tools:** None
-**Saving Throws:** Strength, Dexterity
+**Armor:** Light armor, medium armor, shields  
+**Weapons:** Simple weapons, martial weapons  
+**Tools:** None  
+**Saving Throws:** Strength, Dexterity  
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-### Equipment
+###$ Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -215,7 +215,7 @@ Hunter
 
 Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
 
-### Hunter's Prey
+#### Hunter's Prey
 
 At 3rd level, you gain one of the following features of your choice.
 
@@ -225,7 +225,7 @@ At 3rd level, you gain one of the following features of your choice.
 
 **Horde Breaker**. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
-### Defensive Tactics
+#### Defensive Tactics
 
 At 7th level, you gain one of the following features of your choice.
 
@@ -235,7 +235,7 @@ At 7th level, you gain one of the following features of your choice.
 
 **Steel Will**. You have advantage on saving throws against being frightened.
 
-### Multiattack
+#### Multiattack
 
 At 11th level, you gain one of the following features of your choice.
 
@@ -243,7 +243,7 @@ At 11th level, you gain one of the following features of your choice.
 
 **Whirlwind Attack**. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-### Superior Hunter's Defense
+#### Superior Hunter's Defense
 
 At 15th level, you gain one of the following features of your choice.
 
@@ -258,7 +258,7 @@ Beast Master
 
 The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.
 
-### Ranger's Companion
+#### Ranger's Companion
 
 At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower ([appendix D](../appd/toc.html) presents statistics for the hawk, mastiff, and panther as examples). Add your proficiency bonus to the beast’s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher.
 
@@ -268,14 +268,14 @@ While traveling through your favored terrain with only the beast, you can move s
 
 If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn’t hostile to you, either the same type of beast as before or a different one.
 
-### Exceptional Training
+#### Exceptional Training
 
 Beginning at 7th level, on any of your turns when your beast companion doesn’t attack, you can use a bonus action to command the beast to take the Dash, Disengage, Dodge, or Help action on its turn.
 
-### Bestial Fury
+#### Bestial Fury
 
 Starting at 11th level, your beast companion can make two attacks when you command it to use the Attack action.
 
-### Share Spells
+#### Share Spells
 
 Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.

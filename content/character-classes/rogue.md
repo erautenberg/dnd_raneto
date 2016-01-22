@@ -31,7 +31,7 @@ As you create your rogue character, consider the character’s relationship to t
 
 What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend—another member of your adventuring party—who showed you new possibilities for earning a living and employing your particular talents.
 
-### Quick Build
+#### Quick Build
 
 You can make a rogue quickly by following these suggestions. First. Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the charlatan background.
 
@@ -65,21 +65,21 @@ Class Features
 
 As a rogue, you have the following class features.
 
-### Hit Points
+#### Hit Points
 
-**Hit Dice:** 1d8 per rogue level
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per rogue level  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** Light armor
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-**Tools:** Thieves’ tools
-**Saving Throws:** Dexterity. Intelligence
+**Armor:** Light armor  
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords  
+**Tools:** Thieves’ tools  
+**Saving Throws:** Dexterity. Intelligence  
 **Skills:** Choose four from Acrobatics, Athletics, Deception. Insight, Intimidation, Investigation, Perception, Performance. Persuasion, Sleight of Hand, and Stealth
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -158,25 +158,25 @@ Thief
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
 
-### Fast Hands
+#### Fast Hands
 
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
 
-### Second-Story Work
+#### Second-Story Work
 
 When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
 
 In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
-### Supreme Sneak
+#### Supreme Sneak
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
 
-### Use Magic Device
+#### Use Magic Device
 
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
 
-### Thief's Reflexes
+#### Thief's Reflexes
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
@@ -185,27 +185,27 @@ Assassin
 
 You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
 
-### Bonus Proficiencies
+#### Bonus Proficiencies
 
 When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner’s kit.
 
-### Assassinate
+#### Assassinate
 
 Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. In addition, any hit you score againsta creature that is surprised is a critical hit.
 
-### Infiltration Expertise
+#### Infiltration Expertise
 
 Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can’t establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and officiallooking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
 
 Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
 
-### Impostor
+#### Impostor
 
 At 13th level, you gain the ability to unerringly mimic another person’s speech, writing, and behavior. You must spend at least three hours studying these three components of the person’s behavior, listening to speech, examining handwriting, and observing mannerisms.
 
 Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
 
-### Death Strike
+#### Death Strike
 
 Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
 
@@ -214,7 +214,7 @@ Arcane Trickster
 
 Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
 
-### Spellcasting
+#### Spellcasting
 
 When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.
 
@@ -261,7 +261,7 @@ Whenever you gain a level in this class, you can replace one of the wizard spell
 | 19th        | 3              | 12           | 4   | 3   | 3   | 1   |
 | 20th        | 3              | 13           | 4   | 3   | 3   | 1   |
 
-### *Mage Hand* Legerdemain
+#### *Mage Hand* Legerdemain
 
 Starting at 3rd level, when you cast *mage hand*, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
 
@@ -273,15 +273,15 @@ You can perform one of these tasks without being noticed by a creature if you su
 
 In addition, you can use the bonus action granted by your Cunning Action to control the hand.
 
-### Magical Ambush
+#### Magical Ambush
 
 Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
 
-### Versatile Trickster
+#### Versatile Trickster
 
 At 13th level, you gain the ability to distract targets with your *mage hand*. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
 
-### Spell Thief
+#### Spell Thief
 
 At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 

@@ -35,7 +35,7 @@ As you create a cleric, the most important question to consider is which deity t
 
 Once you’ve chosen a deity, consider your cleric's relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?
 
-### Quick Build
+#### Quick Build
 
 You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the acolyte background.
 
@@ -69,21 +69,21 @@ Class Features
 
 As a cleric, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
-**Hit Dice:** 1d8 per cleric level
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per cleric level  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** Light armor, medium armor, shields
-**Weapons:** All simple weapons
-**Tools:** None
-**Saving Throws:** Wisdom, Charisma
-**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+**Armor:** Light armor, medium armor, shields  
+**Weapons:** All simple weapons  
+**Tools:** None  
+**Saving Throws:** Wisdom, Charisma  
+**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion 
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -92,6 +92,7 @@ You start with the following equipment, in addition to the equipment granted by 
 -	(a) a light crossbow and 20 bolts or (b) any simple weapon
 -	(a) a priest’s pack or (b) an explorer’s pack
 -	A shield and a holy symbol
+
 
 ### Spellcasting
 
@@ -131,7 +132,7 @@ You can use a holy symbol (found in chapter 5) as a spellcasting focus for your 
 
 Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-### Domain Spells
+#### Domain Spells
 
 Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.
 
@@ -205,20 +206,18 @@ The gods of knowledge—including Oghma, Boccob, Gilean, Aureon, and Thoth—val
 | 7th          | *arcane eye, confusion*         |
 | 9th          | *legend lore, scrying*          |
 
-Blessings of Knowledge
-----------------------
+#### Blessings of Knowledge
+
 
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
 
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
-Channel Divinity: Knowledge of the Ages
----------------------------------------
+##### Channel Divinity: Knowledge of the Ages
 
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
 
-Channel Divinity: Read Thoughts
--------------------------------
+##### Channel Divinity: Read Thoughts
 
 At 6th level, you can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.
 
@@ -228,13 +227,11 @@ If the creature fails its save, you can read its surface thoughts (those foremos
 
 During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
-Potent Spellcasting
--------------------
+##### Potent Spellcasting
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-Visions of the Past
--------------------
+##### Visions of the Past
 
 Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.
 
@@ -259,34 +256,33 @@ The Life domain focuses on the vibrant positive energy—one of the fundamental 
 | 7th          | *death ward, guardian of faith*        |
 | 9th          | *mass cure wounds, raise dead*         |
 
-### Bonus Proficiency
+##### Bonus Proficiency
 
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
-### Disciple of Life
+##### Disciple of Life
 
 Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level.
 
-### Channel Divinity: Preserve Life
+##### Channel Divinity: Preserve Life
 
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
 
 As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
 
-### Blessed Healer
+##### Blessed Healer
 
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell’s level.
 
-### Divine Strike
+##### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-### Supreme Healing
+##### Supreme Healing
 
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
-Light Domain
-------------
+#### Light Domain
 
 Gods of light—including Helm, Lathander, Pholtus, Branchala, the Silver Flame, Belenus, Apollo, and Re-Horakhty—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods’ discerning vision, charged with chasing away lies and burning away darkness.
 
@@ -300,31 +296,31 @@ Gods of light—including Helm, Lathander, Pholtus, Branchala, the Silver Flame,
 | 7th          | *guardian of faith, wall of fire* |
 | 9th          | *flame strike, scrying*           |
 
-### Bonus Cantrip
+##### Bonus Cantrip
 
 When you choose this domain at 1st level, you gain the light cantrip if you don’t already know it.
 
-### Warding Flare
+##### Warding Flare
 
 Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can’t be blinded is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-### Channel Divinity: Radiance of the Dawn
+##### Channel Divinity: Radiance of the Dawn
 
 Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.
 
 As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
 
-### Improved Flare
+##### Improved Flare
 
 Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you.
 
-### Potent Spellcasting
+##### Potent Spellcasting
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-### Corona of Light
+##### Corona of Light
 
 Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage.
 
@@ -343,29 +339,29 @@ Gods of nature are as varied as the natural world itself, from inscrutable gods 
 | 7th\_        | dominate beast, grasping vine\_        |
 | 9th          | *insect plague, tree stride*           |
 
-### Acolyte of Nature
+##### Acolyte of Nature
 
 At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
 
-#### Bonus Proficiency
+##### Bonus Proficiency
 
 Also at 1st level, you gain proficiency with heavy armor.
 
-### Channel Divinity: Charm Animals and Plants
+##### Channel Divinity: Charm Animals and Plants
 
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
 As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
 
-### Dampen Elements
+##### Dampen Elements
 
 Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
 
-### Divine Strike
+##### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-### Master of Nature
+##### Master of Nature
 
 At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
 
@@ -384,31 +380,31 @@ Gods whose portfolios include the Tempest domain - including Talos, Umberlee, Ko
 | 7th          | *control water, ice storm*        |
 | 9th          | *destructive wave, insect plague* |
 
-### Bonus Proficiencies
+#### Bonus Proficiencies
 
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
-### Wrath of the Storm
+#### Wrath of the Storm
 
 Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-### Channel Divinity: Destructive Wrath
+#### Channel Divinity: Destructive Wrath
 
 Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
 
 When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 
-### Thunderbolt Strike
+#### Thunderbolt Strike
 
 At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
-### Divine Strike
+#### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-### Stormborn
+#### Stormborn
 
 At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
 
@@ -427,11 +423,11 @@ Gods of trickery—such as Tymora, Beshaba, Olidammara, the Traveler, Garl Glitt
 | 7th          | *dimension door, polymorph*        |
 | 9th          | *dominate person, modify memory*   |
 
-### Blessing of the Trickster
+#### Blessing of the Trickster
 
 Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again.
 
-### Channel Divinity: Invoke Duplicity
+#### Channel Divinity: Invoke Duplicity
 
 Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.
 
@@ -439,17 +435,17 @@ As an action, you create a perfect illusion of yourself that lasts for 1 minute,
 
 For the duration, you can cast spells as though you were in the illusion’s space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
-### Channel Divinity: Cloak of Shadows
+#### Channel Divinity: Cloak of Shadows
 
 Starting at 6th level, you can use your Channel Divinity to vanish.
 
 As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
 
-### Divine Strike
+#### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each o f your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-### Improved Duplicity
+#### Improved Duplicity
 
 At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.
 
@@ -468,28 +464,28 @@ War has many manifestations. It can make heroes of ordinary people. It can be de
 | 7th          | *freedom of movement, stoneskin*      |
 | 9th          | *flame strike, hold monster*          |
 
-### Bonus Proficiencies
+#### Bonus Proficiencies
 
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
-### War Priest
+#### War Priest
 
 From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-### Channel Divinity: Guided Strike
+#### Channel Divinity: Guided Strike
 
 Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
-### Channel Divinity: War God's Blessing
+#### Channel Divinity: War God's Blessing
 
 At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
-### Divine Strike
+#### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-### Avatar of Battle
+#### Avatar of Battle
 
 At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.

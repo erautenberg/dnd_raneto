@@ -33,7 +33,7 @@ The most important question to consider when creating your sorcerer is the origi
 
 How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you’ve been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world—the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
 
-### Quick Build
+#### Quick Build
 
 You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the light, prestidigitation, ray of frost, and shocking grasp cantrips, along with the 1st-level spells shield and magic missile.
 
@@ -67,21 +67,21 @@ Class Features
 
 As a sorcerer, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
-**Hit Dice:** 1d6 per sorcerer level
-**Hit Points at 1st Level:** 6 + your Constitution modifier
+**Hit Dice:** 1d6 per sorcerer level  
+**Hit Points at 1st Level:** 6 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** None
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
-**Tools:** None
-**Saving Throws:** Constitution, Charisma
+**Armor:** None  
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows  
+**Tools:** None  
+**Saving Throws:** Constitution, Charisma  
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -134,11 +134,11 @@ Your choice grants you features when you choose it at 1st level and again at 6th
 
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
-### Sorcery Points
+###$ Sorcery Points
 
 You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
 
-### Flexible Casting
+###$ Flexible Casting
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
 
@@ -216,7 +216,7 @@ Draconic Bloodline
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times w ho made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
-### Dragon Ancestor
+#### Dragon Ancestor
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
@@ -237,23 +237,23 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
-### Draconic Resilience
+#### Draconic Resilience
 
 As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
 Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
 
-### Elemental Affinity
+#### Elemental Affinity
 
 Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, add your Charisma modifier to that damage. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
 
-### Dragon Wings
+#### Dragon Wings
 
 At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
 
 You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
-### Draconic Presence
+#### Draconic Presence
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you w ere casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
@@ -262,25 +262,25 @@ Wild Magic
 
 Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.
 
-### Wild Magic Surge
+#### Wild Magic Surge
 
 Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect.
 
-### Tides of Chaos
+#### Tides of Chaos
 
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
 Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
 
-### Bend Luck
+#### Bend Luck
 
 Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature’s roll. You can do so after the creature rolls but before any effects of the roll occur.
 
-### Controlled Chaos
+#### Controlled Chaos
 
 At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.
 
-### Spell Bombardment
+#### Spell Bombardment
 
 Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn.
 

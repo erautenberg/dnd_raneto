@@ -36,7 +36,7 @@ What kind of relationship do you have with your patron? Is it friendly, antagoni
 
 How does your patron communicate with you? If you have a familiar, it might occasionally speak with your patron's voice. Some warlocks find messages from their patrons etched on trees, mingled among tea leaves, or adrift in the clouds--messages that only the warlock can see. Other warlocks converse with their patrons in dreams or waking visions, or deal only with intermediaries.
 
-### Quick Build
+#### Quick Build
 
 You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the charlatan background. Third, choose the eldritch blast and chill touch cantrips, along with the 1st-level spells ray of sickness and witch bolt.
 
@@ -68,18 +68,21 @@ You can make a warlock quickly by following these suggestions. First, Charisma s
 Class Features
 --------------
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per warlock level  
 **Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** Light armor**Weapons:** Simple weapons<br>**Tools:** None  
-**Saving Throws:** Wisdom, Charisma<br>**Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+**Armor:** Light armor  
+**Weapons:** Simple weapons  
+**Tools:** None  
+**Saving Throws:** Wisdom, Charisma  
+**Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:  
 - (a) a light c rossbow and 20 bolts or (b) any simple weapon  
@@ -159,15 +162,15 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
-#### Your Pact Boon
-
+>##### Your Pact Boon
+>
 > Each Pact Boon option produces a special creature or an object that reflects your patron's nature.
 >
-> Pact of the Chain. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.
+> **Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.
 >
-> Pact of the Blade. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
+> **Pact of the Blade**. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
 >
-> Pact of the Tome. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
+> **Pact of the Tome**. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
 
 ### Ability Score Improvement
 
@@ -319,37 +322,37 @@ Eldritch Invocations
 
 If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
 
-### Agonizing Blast
+#### Agonizing Blast
 
 *Prerequisite: eldritch blast cantrip*
 
 When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
 
-### Armor of Shadows
+#### Armor of Shadows
 
 You can cast mage armor on yourself at will, without expending a spell slot or material components.
 
-### Ascendant Step
+#### Ascendant Step
 
 *Prerequisite: 9th level*
 
 You can cast levitate on yourself at will, without expending a spell slot or material components.
 
-### Beast Speech
+#### Beast Speech
 
 You can cast speak with animals at will, without expending a spell slot.
 
-### Beguiling Influence
+#### Beguiling Influence
 
 You gain proficiency in the Deception and Persuasion skills.
 
-### Bewitching Whispers
+#### Bewitching Whispers
 
 *Prerequisite: 7th level*
 
 You can cast compulsion once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Book of Ancient Secrets
+#### Book of Ancient Secrets
 
 *Prerequisite: Pact of the Tome feature*
 
@@ -357,135 +360,135 @@ You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-lev
 
 On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-### Chains of Carceri
+#### Chains of Carceri
 
 *Prerequisite: 15th level, Pact of the Chain feature*
 
 You can cast hold monster at will--targeting a celestial, fiend, or elemental--without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
-### Devil's Sight
+#### Devil's Sight
 
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
-### Dreadful Word
+#### Dreadful Word
 
 *Prerequisite: 7th level*
 
 You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Eldritch Sight
+#### Eldritch Sight
 
 You can cast detect magic at will, without expending a spell slot.
 
-### Eldritch Spear
+#### Eldritch Spear
 
 *Prerequisite: eldritch blast cantrip*
 
 When you cast eldritch blast, its range is 300 feet.
 
-### Eyes of the Rune Keeper
+#### Eyes of the Rune Keeper
 
 You can read all writing.
 
-### Fiendish Vigor
+#### Fiendish Vigor
 
 You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
 
-### Gaze of Two Minds
+#### Gaze of Two Minds
 
 You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
-### Lifedrinker
+#### Lifedrinker
 
 *Prerequisite: 12th level, Pact of the Blade feature*
 
 When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
 
-### Mask of Many Faces
+#### Mask of Many Faces
 
 You can cast disguise self at will, without expending a spell slot.
 
-### Master of Myriad Forms
+#### Master of Myriad Forms
 
 *Prerequisite: 15th level*
 
 You can cast alter self at will, without expending a spell slot.
 
-### Minions of Chaos
+#### Minions of Chaos
 
 *Prerequisite: 9th level*
 
 You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Mire the Mind
+#### Mire the Mind
 
 *Prerequisite: 5th level*
 
 You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Misty Visions
+#### Misty Visions
 
 You can cast silent image at will, without expending a spell slot or material components.
 
-### One with Shadows
+#### One with Shadows
 
 *Prerequisite: 5th level*
 
 When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
 
-### Otherworldly Leap
+#### Otherworldly Leap
 
 *Prerequisite: 9th level*
 
 You can cast jump on yourself at will, without expending a spell slot or material components.
 
-### Repelling Blast
+#### Repelling Blast
 
 *Prerequisite: eldritch blast cantrip*
 
 When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
 
-### Sculptor of Flesh
+#### Sculptor of Flesh
 
 *Prerequisite: 7th level*
 
 You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Sign of Ill Omen
+#### Sign of Ill Omen
 
 *Prerequisite: 5th level*
 
 You can cast bestow curse once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Thief of Five Fates
+#### Thief of Five Fates
 
 You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.
 
-### Thirsting Blade
+#### Thirsting Blade
 
 *Prerequisite: 5th level, Pact of the Blade feature*
 
 You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
-### Visions of Distant Realms
+#### Visions of Distant Realms
 
 *Prerequisite: 15th level*
 
 You can cast arcane eye at will, without expending a spell slot.
 
-### Voice of the Chain Master
+#### Voice of the Chain Master
 
 *Prerequisite: Pact of the Chain feature*
 
 You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
-### Whispers of the Grave
+#### Whispers of the Grave
 
 *Prerequisite: 9th level*
 
 You can cast speak with dead at will, without expending a spell slot.
 
-### Witch Sight
+#### Witch Sight
 
 *Prerequisite: 15th level*
 

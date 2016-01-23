@@ -67,21 +67,21 @@ Class Features
 
 As a monk, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
-**Hit Dice:** 1d8 per monk level
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per monk level  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** None
-**Weapons:** Simple weapons, shortswords
-**Tools:** Choose one type of artisan’s tools or one musical instrument
-**Saving Throws:** Strength, Dexterity
+**Armor:** None  
+**Weapons:** Simple weapons, shortswords  
+**Tools:** Choose one type of artisan’s tools or one musical instrument  
+**Saving Throws:** Strength, Dexterity  
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -114,7 +114,7 @@ When you spend a ki point, it is unavailable until you finish a short or long re
 
 Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
 
-#### Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+**Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 #### Flurry of Blows
 
@@ -128,7 +128,7 @@ You can spend 1 ki point to take the Dodge action as a bonus action on your turn
 
 You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
-#### Unarmored Movement
+### Unarmored Movement
 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
@@ -208,7 +208,7 @@ Way of the Open Hand
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 
-### Open Hand Technique
+#### Open Hand Technique
 
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 
@@ -216,15 +216,15 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 -	It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 -	It can’t take reactions until the end of your next turn.
 
-### Wholeness of Body
+#### Wholeness of Body
 
 At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
 
-### Tranquility
+#### Tranquility
 
 Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
-### Quivering Palm
+#### Quivering Palm
 
 At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 
@@ -235,19 +235,19 @@ Way of Shadow
 
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family m embers, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves’ guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
-### Shadow Arts
+#### Shadow Arts
 
 Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don’t already know it.
 
-### Shadow Step
+#### Shadow Step
 
 At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
 
-### Cloak of Shadows
+#### Cloak of Shadows
 
 By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
 
-### Opportunist
+#### Opportunist
 
 At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
 
@@ -258,7 +258,7 @@ You follow a monastic tradition that teaches you to harness the elements. When y
 
 Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
 
-### Disciple of the Elements
+###$ Disciple of the Elements
 
 When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.
 
@@ -281,7 +281,7 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 | 13th-16th   | 5                             |
 | 17th-20th   | 6                             |
 
-### Elemental Disciplines
+###$ Elemental Disciplines
 
 The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be that level in this class to learn the discipline.
 
@@ -324,7 +324,7 @@ Water Whip. You can spend 2 ki points as a bonus action to create a whip of wate
 
 **Wave of Rolling Earth *(17th Level Required).*** You can spend 6 ki points to cast wall of stone.
 
-> **Monastic Orders**  
+> ##### **Monastic Orders**  
 > The worlds of D&D contain a multitude of monasteries and monastic traditions. In lands with an Asian cultural flavor, such as Shou Lung far to the east of the Forgotten Realms, these monasteries are associated with philosophical traditions and martial arts practice. The Iron Hand School, the Five Stars School, the Northern Fist School, and the Southern Star School of Shou Lung teach different approaches to the physical, mental, and spiritual disciplines of the monk. Some of these monasteries have spread to the western lands of Faerun, particularly in places with large Shou immigrant communities, such as Thesk and Westgate.
 >
 > Other monastic traditions are associated with deities who teach the value of physical excellence and mental discipline. In the Forgotten Realms, the order of the Dark Moon is made up of monks dedicated to Shar (goddess of loss), who maintain secret communities in remote hills, back allies, and subterranean hideaways. Monasteries of Ilmater (god of endurance) are named after flowers, and their orders carry the names of great heroes of the faith; the Disciples of Saint Sollars the Twice-Martyred reside in the Monastery of the Yellow Rose near Damara. The monasteries of Eberron combine the study of martial arts with a life of scholarship. Most are devoted to the deities of the Sovereign Host. In the world of Dragonlance, most monks are devoted to Majere, god of meditation and thought. In Greyhawk, many monasteries are dedicated to Xan Yae, the goddess of twilight and the superiority of mind over matter, or to Zuoken, god of mental and physical mastery.

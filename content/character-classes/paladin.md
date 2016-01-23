@@ -33,7 +33,7 @@ How did you experience your call to serve as a paladin? Did you hear a whisper f
 
 As guardians against the forces of wickedness, paladins are rarely of any evil alignment. Most of them walk the paths of charity and justice. Consider how your alignment colors the way you pursue your holy quest and the manner in which you conduct yourself before gods and mortals. Your oath and alignment might be in harmony, or your oath might represent standards of behavior that you have not yet attained.
 
-### Quick Build
+#### Quick Build
 
 You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the noble background.
 
@@ -67,21 +67,21 @@ Class Features
 
 As a paladin, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
-**Hit Dice:** 1d10 per paladin level
-**Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Dice:** 1d10 per paladin level  
+**Hit Points at 1st Level:** 10 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** All armor, shields
-**Weapons:** Simple weapons, martial weapons
-**Tools:** None
-**Saving Throws:** Wisdom, Charisma
+**Armor:** All armor, shields  
+**Weapons:** Simple weapons, martial weapons  
+**Tools:** None  
+**Saving Throws:** Wisdom, Charisma  
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -164,13 +164,13 @@ By 3rd level, the divine magic flowing through you makes you immune to disease.
 
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion, the Oath of the Ancients, or the Oath of Vengeance, all detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
-### Oath Spells
+#### Oath Spells
 
 Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.
 
 If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-### Channel Divinity
+#### Channel Divinity
 
 Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
 
@@ -218,7 +218,7 @@ Oath of Devotion
 
 The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
-### Tenets of Devotion
+#### Tenets of Devotion
 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
@@ -228,7 +228,7 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 -	**Honor**. Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 -	**Duty**. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
-### Oath Spells
+#### Oath Spells
 
 You gain oath spells at the paladin levels listed.
 
@@ -242,7 +242,7 @@ You gain oath spells at the paladin levels listed.
 | 13th          | freedom of movement, guardian of faith   |
 | 17th          | commune, flame strike                    |
 
-### Channel Divinity
+#### Channel Divinity
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
@@ -254,15 +254,15 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
-### Aura of Devotion
+#### Aura of Devotion
 
 Starting at 7th level, you and friendly creatures within 10 feet of you can’t be charmed while you are conscious. At 18th level, the range of this aura increases to 30 feet.
 
-### Purity of Spirit
+#### Purity of Spirit
 
 Beginning at 15th level, you are always under the effects of a protection from evil and good spell.
 
-### Holy Nimbus
+#### Holy Nimbus
 
 At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
 
@@ -277,7 +277,7 @@ Oath of the Ancients
 
 The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
 
-### Tenets of the Ancients
+#### Tenets of the Ancients
 
 The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns o f law or chaos. Its four central principles are simple.
 
@@ -286,7 +286,7 @@ The tenets of the Oath of the Ancients have been preserved for uncounted centuri
 -	**Preserve Your Own Light**. Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
 -	**Be the Light**. Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
 
-### Oath Spells
+#### Oath Spells
 
 You gain oath spells at the paladin levels listed.
 
@@ -300,7 +300,7 @@ You gain oath spells at the paladin levels listed.
 | 13th          | ice storm, stoneskin                 |
 | 17th          | commune with nature, tree stride     |
 
-### Channel Divinity
+#### Channel Divinity
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
@@ -312,19 +312,19 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 
-### Aura of Warding
+#### Aura of Warding
 
 Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-### Undying Sentinel
+#### Undying Sentinel
 
 Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can’t use it again until you finish a long rest.
 
 Additionally, you suffer none of the drawbacks of old age, and you can’t be aged magically.
 
-### Elder Champion
+#### Elder Champion
 
 At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.
 
@@ -340,7 +340,7 @@ Oath of Vengeance
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.
 
-### Tenets of Vengeance
+#### Tenets of Vengeance
 
 The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
 
@@ -349,7 +349,7 @@ The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve 
 -	**By Any Means Necessary**. My qualms can’t get in the way of exterminating my foes.
 -	**Restitution**. If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
 
-### Oath Spells
+#### Oath Spells
 
 You gain oath spells at the paladin levels listed.
 
@@ -363,7 +363,7 @@ You gain oath spells at the paladin levels listed.
 | 13th          | banishment, dimension door    |
 | 17th          | hold monster, scrying         |
 
-### Channel Divinity
+#### Channel Divinity
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
@@ -375,15 +375,15 @@ On a successful save, the creature’s speed is halved for 1 minute or until the
 
 **Vow of Enmity**. As a bonus action, you can utter a vow o f enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.
 
-### Relentless Avenger
+#### Relentless Avenger
 
 By 7th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
 
-### Soul of Vengeance
+#### Soul of Vengeance
 
 Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity m akes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.
 
-### Avenging Angel
+#### Avenging Angel
 
 At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:
 
@@ -392,8 +392,7 @@ At 20th level, you can assume the form of an angelic avenger. Using your action,
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-> Breaking Your Oath
-> ------------------
+> ##### Breaking Your Oath
 >
 > A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
 >
